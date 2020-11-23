@@ -1,0 +1,55 @@
+#wrapper {
+	width: 900px;
+	margin: auto;
+}
+#inleiding {
+	background-color: #f2f2f2;
+	width: 900px;
+}
+#paragraaf1 {
+	background-color: #f2f2f2;
+	width: 900px;
+	height: auto;
+}
+#paragraaf2 {
+	background-color: #f2f2f2;
+	width: 900px;
+}
+#eind {
+	background-color: #f2f2f2;
+	width: 900px;
+}
+
+
+
+#paragraaf1 table {
+	width: auto;
+	margin: 20px;
+	float: right;
+}
+
+#paragraaf2 table {
+	width: 348px;
+	margin: 20px;
+	float: right;
+}
+footer {
+	width: 1000px;
+	height: 50px;
+	background-color: #f2f2f2;
+}
+body {
+	background-color: #f2f2f2;
+	font-family: Calibri;
+}
+a {
+	color: black;
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}
+#image {
+	width: auto;
+}
+
